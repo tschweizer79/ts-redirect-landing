@@ -11,6 +11,10 @@ Text Domain:  redirect-landing-page
 License:      GPL v3 or later
 License URI:  https://www.gnu.org/licenses/gpl-3.0.txt
 Tags:         redirect,shortcode
+Tested up to: 6.0.3
+Stable tag:   1.0
+Requires PHP: 7.3
+Requires at least: 6.0.2
 
 The plugin implements a simple shortocde that allows you to redirect a page to different URLs if the user is logged in or not.
 
